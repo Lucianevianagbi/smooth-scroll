@@ -1,0 +1,16 @@
+
+section {
+    min-height: 100vh;
+}
+
+#sobre {
+    background-color: #5694FE;
+}
+
+#servicos {
+    background-color: #9846FE;
+}
+
+#contato {
+    background-color: #37D851;
+}
