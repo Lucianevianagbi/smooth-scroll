@@ -1,6 +1,22 @@
+* {
+min-height: 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    position: fixed;background-color: white;height: 2rem;
+    width: 100%;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+    margin-top: 0;
+}
+
 
 section {
     min-height: 100vh;
+    padding-top: 3rem;
 }
 
 #sobre {
@@ -14,3 +30,4 @@ section {
 #contato {
     background-color: #37D851;
 }
+
